@@ -1,11 +1,9 @@
 # saccader-reproducibility
 NeurIPS reproducibility challenge on google-AI's saccader paper.
 
-Narrow clone from https://github.com/google-research/google-research.git.
+Contians modified code from  https://github.com/google-research/google-research/saccader.
 
-The root 'saccader' folder contains modified google-ai code
-
-Powershell script for cloning:
+PowerShell script for cloning saccader subdirectory only *ON WINDOWS*:
 ```
   $PSScriptRoot
   git init
