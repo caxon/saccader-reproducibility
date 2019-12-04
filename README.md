@@ -3,6 +3,8 @@ NeurIPS reproducibility challenge on google-AI's saccader paper.
 
 Narrow clone from https://github.com/google-research/google-research.git.
 
+The root 'saccader' folder contains modified google-ai code
+
 Powershell script for cloning:
 ```
   $PSScriptRoot
